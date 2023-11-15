@@ -1,7 +1,7 @@
 const cron = require("node-cron");
 const { sendMessage } = require("./message");
 
-const CONTACTO = "34622316323@c.us";
+const CONTACTO = "phoneNumber@c.us";
 
 const MSG_SALUDOS = ["Esto es un mensaje automático"];
 
